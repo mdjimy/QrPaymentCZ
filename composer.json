@@ -1,5 +1,5 @@
 {
-  "name": "rikudou/czqrpayment",
+  "name": "mdjimy/czqrpayment",
   "type": "library",
   "description": "QR payment library for Czech accounts",
   "homepage": "https://github.com/RikudouSage/QrPaymentCZ",
@@ -7,8 +7,8 @@
   "license": "WTFPL",
   "authors": [
     {
-      "name": "Dominik Chrástecký",
-      "email": "dominik@chrastecky.cz"
+      "name": "Martin Dendis",
+      "email": "mdjimy@atlas.cz"
     }
   ],
   "require": {
